@@ -53,7 +53,7 @@ class CategoriesServiceProvider extends ServiceProvider {
      */
     public function provides()
     {
-        return array('orders', 'orders.processor');
+        return array('categories');
     }
 
 }

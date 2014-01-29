@@ -4,12 +4,13 @@
     "authors": [
         {
             "name": "Laurence Roberts",
-            "email": "lsjroberts@gmail.com"
+            "email": "lsjroberts@outlook.com"
         }
     ],
     "require": {
         "php": ">=5.3.0",
-        "illuminate/support": "~4"
+        "illuminate/support": "~4",
+        "cartalyst/nested-sets": "2.0.*"
     },
     "require-dev": {
         "mockery/mockery": "dev-master"
